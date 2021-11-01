@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Deepak Verma </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="linkedin.com/in/deepak-verma-b11059116">LinkedIn</a> |
+  <a href="https://github.com/dverma12">GitHub</a>
+  
+  <br>   
+  I'm working as a Kofax developer and working with Kofax Capture ,KTM, ASP.NET and SQL.
+  Having an experience of 4+ years
+ Interseted in working with Data science and ML.
+ <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
